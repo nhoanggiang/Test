@@ -1,0 +1,2 @@
+username: fshare1@linuxteamvietnam.us
+password: linuxteamvietnam
